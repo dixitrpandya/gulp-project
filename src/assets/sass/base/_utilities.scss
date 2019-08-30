@@ -1,0 +1,14 @@
+// Text truncate
+.text-ellipsis {
+    position: relative;
+    text-overflow: ellipsis;
+    overflow: hidden;
+    white-space: nowrap;
+}
+
+// Image fit cover
+.img-fit-cover {
+    object-fit: cover;
+    height: 100%;
+    width: 100%;
+}
