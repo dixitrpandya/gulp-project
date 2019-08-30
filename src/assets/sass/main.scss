@@ -1,0 +1,13 @@
+// Configuration from base folder
+@import 'base/variables';
+@import 'base/mixins';
+@import 'base/reset';
+@import 'base/utilities';
+@import 'base/typography';
+
+// Components from component folder
+@import 'components/buttons';
+
+// Layouts from layout folder
+@import 'layout/header';
+@import 'layout/footer';
